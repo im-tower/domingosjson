@@ -1,0 +1,32 @@
+{
+    "domingos" : [
+        {
+           "nombre":"Primer domingo",
+           "comentarios":null,
+           "fecha":"2023-05-07",
+           "irrenunciable":"1",
+           "tipo":"domingo"
+        },
+        {
+           "nombre":"Segundo domingo",
+           "comentarios":null,
+           "fecha":"2023-05-14",
+           "irrenunciable":"0",
+           "tipo":"Civil"
+        },
+        {
+           "nombre":"Tercer domingo",
+           "comentarios":null,
+           "fecha":"2023-05-21",
+           "irrenunciable":"0",
+           "tipo":"Civil"
+        },
+        {
+           "nombre":"Cuarto domingo",
+           "comentarios":null,
+           "fecha":"2023-05-28",
+           "irrenunciable":"0",
+           "tipo":"Civil"
+        }
+     ]
+}
